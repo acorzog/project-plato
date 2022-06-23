@@ -37,6 +37,8 @@ ________________________________________________________________________________
 
 ## How to run
 
+Tests will be placed in the `/cypress/e2e/test.cy.js` file
+
 To run tests with the open UI
   - Run
     ```
@@ -45,6 +47,7 @@ To run tests with the open UI
     - Then select "E2E Testing" option 
     - Select the browser you want to use (Suggested ELECTRON) 
     - Click on the "Start E2E Testing in Electron"
+    - When the new window is open please find the tests on the "test.cy.js" file
 
 To run tests headless
   - Run
